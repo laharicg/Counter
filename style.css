@@ -1,0 +1,11 @@
+body {
+	background-image: url("https://dty8d8u6se0an.cloudfront.net/media/image/thumbnail/385006-1_warp-beauty-06_1440x1100.jpg");
+    background-size: auto;
+	font-size: large;
+	text-align: center;
+}
+
+#content {
+	margin: 25px 100px;
+	border: 1px solid rgb(209, 158, 196);
+}
